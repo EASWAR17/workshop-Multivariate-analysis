@@ -56,7 +56,7 @@ df['Route'].value_counts()
 
 ![image](https://user-images.githubusercontent.com/94154683/195609916-397d22d8-b7e8-421a-890e-0fc1d84c3a26.png)
 
-![image](https://user-images.githubusercontent.com/94154683/195610003-5b9966c9-3124-4003-9a28-21faabff8b00.png)
+
 
 ## Airlines value_count:
 ![image](https://user-images.githubusercontent.com/94154683/195610119-7ca31dcb-f550-415f-84de-b34d8ef816ef.png)
